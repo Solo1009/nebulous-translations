@@ -182,7 +182,7 @@
     <string name="Dodgey">"신속한 회피"</string>
     <string name="Self_Contained">"독립적"</string>
     <string name="Survivalist">"생존주의자"</string>
-    <string name="Ultramassive">"파란것은 영양가가 높은 귀중한 블랙홀이죠"</string>
+    <string name="Ultramassive">"초거대"</string>
     <string name="Rapid_Ascension">"빠른 상승"</string>
     <string name="Revenge">"복수"</string>
     <string name="Doge_Pound">"개 박살!"</string>
@@ -677,7 +677,7 @@
     <string name="REJECT_ALL_FRIEND_INVITATIONS_">모든 친구신청을 거부하시겠습니까?</string>
     <string name="suns_">"개의 태양."</string>
     <string name="Sun_Collector">태양 수집가</string>
-    <string name="Sun_Hoarder">"태양 축적가</string>
+    <string name="Sun_Hoarder">태양 축적가</string>
     <string name="Sun_Mogul">태양 탐색가</string>
     <string name="Collect_1_000_suns_">태양 1,000 개 수집하기</string>
     <string name="Collect_5_000_suns_">태양 5,000 개 수집하기</string>
@@ -759,7 +759,7 @@
     <string name="Are_you_sure_you_want_to_upload_this_skin_">정말로 이 스킨을 업로드하시겠습니까?</string>
     <string name="Grant_Permission">권한 부여</string>
     <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">싱글 플레이어 진행상황을 저장하려면 Nebulous에 저장소 권한이 부여되어야 합니다.</string>
-    <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">블루투스 디바이스를 찾으려면 Nebulous에 위치 권환이 부여되어야 합니다.</string>
+    <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">블루투스 디바이스를 찾으려면 Nebulous에 위치 권한이 부여되어야 합니다.</string>
     <string name="FFA_ULTRA">울트라 개인전</string>
     <string name="FFAU">울트라</string>
     <string name="_in_a_FFAU_Game">울트라 개인전 게임에서</string>
@@ -894,7 +894,7 @@
     <string name="ROOM">방</string>
     <string name="EXPERIMENTAL">실험적인</string>
     <string name="members">멤버들</string>
-    <string name="Delete_ALL_Messages_">모든 메시지를 삭제하십시오!</string>
+    <string name="Delete_ALL_Messages_">모든 메세지를 삭제하십시오!</string>
     <string name="SAVE_PROFILE">프로필 저장</string>
     <string name="Move">이동</string>
     <string name="New_Position">새 위치</string>
